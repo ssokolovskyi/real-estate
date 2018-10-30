@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RealEstate</string>
+    <string name="empty_state">No internet connection</string>
+    <string name="price">%1$s %2$s</string>
+</resources>
